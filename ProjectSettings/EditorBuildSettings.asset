@@ -1,0 +1,14 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/AppoShoot/Scenes/menu.unity
+    guid: 0a93d79c1d94f7d49b52cf325e0cfced
+  - enabled: 1
+    path: Assets/AppoShoot/Scenes/GlobalMap/g_map_0.unity
+    guid: 588da2c9f7c563c458a75388647654a3
+  m_configObjects: {}
